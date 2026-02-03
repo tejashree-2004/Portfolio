@@ -208,7 +208,7 @@ const HeroSection = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.6 }}
         >
-          TEJASHREE NEELAKANTA GUGESH
+          TEJASHREE N
         </motion.h1>
         
         <motion.div
@@ -218,7 +218,7 @@ const HeroSection = () => {
           transition={{ delay: 0.8 }}
         >
           <span className="label">DESIGNATION:</span>
-          <span className="value">SOFTWARE DEVELOPER INTERN</span>
+          <span className="value">SOFTWARE DEVELOPER and AI ENGINEER</span>
         </motion.div>
         
         <motion.p
@@ -266,7 +266,7 @@ const HeroSection = () => {
             <span>INITIALIZE CONTACT</span>
             <div className="btn-glow"></div>
           </a>
-          <a href="https://github.com/tejveer755" target="_blank" rel="noopener noreferrer" className="btn-secondary">
+          <a href="https://github.com/tejashree-2004" target="_blank" rel="noopener noreferrer" className="btn-secondary">
             <span>VIEW GITHUB</span>
           </a>
         </motion.div>
@@ -573,8 +573,8 @@ const DeploymentLogs = () => {
       tech: ["Django", "REST API", "MySQL", "Authentication"],
       description: "Engineered secure Django REST API backend for blockchain healthcare platform. Implemented authentication, access control, and database optimization achieving 40% performance improvement in data retrieval.",
       links: {
-        github: "https://github.com/tejveer755/CareChain",
-        publication: "https://ieeexplore.ieee.org/document/10512147"
+        github: "https://github.com/tejashree-2004/CareChain",
+        publication: "https://ieeexplore.ieee.org/document/11135177"
       }
     },
     {
@@ -586,7 +586,7 @@ const DeploymentLogs = () => {
       tech: ["Django", "REST APIs", "CI/CD", "GitHub Actions"],
       description: "Developed scalable backend services with Vue.js integration at Datayaan. Built secure REST endpoints, implemented CI/CD pipelines with GitHub Actions for consistent deployments.",
       links: {
-        github: "https://github.com/tejveer755"
+        github: "https://github.com/tejashree-2004"
       }
     },
     {
@@ -598,7 +598,7 @@ const DeploymentLogs = () => {
       tech: ["Docker", "AWS EC2", "GitHub Actions", "Django"],
       description: "Architected automated build-test-deploy pipeline for Django applications. Dockerized services and deployed to AWS EC2 with automated testing and zero-downtime deployments.",
       links: {
-        github: "https://github.com/tejveer755/cicd"
+        github: "https://github.com/tejashree-2004/"
       }
     }
   ];
@@ -746,9 +746,7 @@ const EngineeringPhilosophy = () => {
       >
         <div className="quote-mark">"</div>
         <p className="quote-text">
-          I don't just write backend code. I architect systems that scale, APIs that developers love,
-          and infrastructure that doesn't break at 3 AM. From database design to deployment automation,
-          I own the server side.
+          I build backend systems with a focus on scale, reliability, and developer experience. I care about clean APIs, stable infrastructure, and architectures that handle growth without drama. From data modeling to deployment automation, I work to keep the server side fast, consistent, and dependable.
         </p>
         <div className="quote-author">— Engineering Philosophy</div>
       </motion.div>
@@ -802,7 +800,7 @@ const ContactSection = () => {
           </motion.a>
           
           <motion.a
-            href="https://www.linkedin.com/in/tejashree-neelakanta-gugesh-84a664225/"
+            href="https://www.linkedin.com/in/tejashree-neelakantan/"
             target="_blank"
             rel="noopener noreferrer"
             className="contact-card linkedin"
@@ -816,7 +814,7 @@ const ContactSection = () => {
           </motion.a>
           
           <motion.a
-            href="https://github.com/tejveer755"
+            href="https://github.com/tejashree-2004"
             target="_blank"
             rel="noopener noreferrer"
             className="contact-card github"
@@ -863,7 +861,7 @@ const ContactSection = () => {
             Built with React + Framer Motion | Neural Network Graphics | 2026
           </p>
           <p className="footer-signature">
-            TEJASHREE NEELAKANTA GUGESH © NEURAL COMMAND CENTER
+            TEJASHREE N © NEURAL COMMAND CENTER
           </p>
         </motion.div>
       </motion.div>
